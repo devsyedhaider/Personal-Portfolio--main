@@ -45,7 +45,7 @@ If you have [Git](https://git-scm.com/) installed on your computer, you can clon
 git clone https://github.com/devsyedmohsin/portfolio-template
 ```
 
-Alternatively, click on this [link](https://github.com/devsyedmohsin/portfolio-template/archive/refs/heads/main.zip) to download it.
+Alternatively, click on this [link](https://github.com/devsyedhaider/Personal-Portfolio--main/archive/refs/heads/main.zip) to download it.
 
 ### Editing the Template
 
@@ -56,13 +56,13 @@ You will find a file named `index.html` Open it and follow the guidance inscribe
 
 ```html
 <!-- Update with your name -->
-<title>Syed Mohsin's Portfolio</title>
+<title>Syed Ali Haider Portfolio</title>
 ```
 
 ```html
 <div class="header-textbox">
   <!-- Replace with your name & job title -->
-  <h1 class="h1">Hi, I'm Syed Mohsin Frontend Web Developer</h1>
+  <h1 class="h1">Hi, I'm Syed Ali Haider Frontend Web Developer</h1>
 
   <!-- Add a small introductory paragraph about yourself -->
   <p class="header-text">A frontend software engineer and interface designer</p>

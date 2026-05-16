@@ -2,7 +2,7 @@
 
 An open-source, user-friendly, responsive, and accessible portfolio template for developers 🚀⚡
 
-Give a star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-portfolio.netlify.app/)
+Give a star ⭐ if you find it useful. [Visit site &rarr;](https://devalihaider.netlify.app/)
 
 ![Portfolio Template Gif](assets/images/portfolio-template.gif)
 
